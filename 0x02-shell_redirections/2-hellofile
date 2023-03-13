@@ -1,2 +1,2 @@
-#!/bin/bacat 
+#!/bin/bash 
 cat /etc/passwd
